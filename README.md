@@ -29,7 +29,6 @@ Projects that i've completed during college
 - Expanding my detection projects (e.g. SIEM-style log analysis)
 - Strengthening my AWS and Azure knowledge
 - Practicing my coding skills 
-- 
 
 ---
 
