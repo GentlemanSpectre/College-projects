@@ -33,7 +33,4 @@ Projects that i've completed during college
 
 ---
 
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/eoin-wall-553740252/))
 
