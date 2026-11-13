@@ -1,0 +1,2 @@
+The goal of this project was to use python to analyize different types of logs. one was to detect if sudo was used too much in rapid succession, another was if malicious IP's were detected and how many
+and the last one being to detect the amount of 404 errors occuring in a log.
